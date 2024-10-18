@@ -1,0 +1,13 @@
+*.pidb
+*.meta
+*.temp
+*.obj
+.vs/
+Library/
+Temp/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+
